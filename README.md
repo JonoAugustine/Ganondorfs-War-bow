@@ -15,7 +15,7 @@ Inspiration: I play britons in AoE2
 <img src="images/bow_in_hands.png" style="width:50%"/>
 <img src="images/bow_drawn.png" style="width:50%;float: right;"/>
 
-## Changes
+## Base Changes
 
 <ul>
   <li>Increase Bow Size Scaling <code>(1x -&gt; 1.2x)</code></li>
@@ -27,6 +27,14 @@ Inspiration: I play britons in AoE2
   <li>Decrease Bow Draw Speed <code>(1 -&gt; 0.7)</code> | Now takes slightly longer to draw the bow&gt;
   </li><li>Bow is now unbreakable</li>
 </ul>
+
+
+## Building
+
+I've included multiple variants of the base mod. You can build each one with the included script
+```sh
+$ ./build.sh variants/<pick_one>
+```
 
 ## _Warning_
 
