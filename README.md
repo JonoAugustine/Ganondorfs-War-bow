@@ -4,6 +4,8 @@ This mod make the Demon King's Bow more powerful, as a real war bow should be.
 The bow shoots farther, faster, and looks larger.
 ---
 
+Inspiration: I play britons in AoE2 
+
 [Download here](https://github.com/JonoAugustine/Ganondorfs-War-bow/releases)
 
 [View Changes](#changes)
