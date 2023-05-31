@@ -1,10 +1,12 @@
 # Ganondorf's War Bow
 
-This mod make the Demon King's Bow more powerful, as a real war bow should
-be. The bow shoots farther, faster, and looks larger.
+This mod make the Demon King's Bow more powerful, as a real war bow should be.
+The bow shoots farther, faster, and looks larger.
 ---
 
 [Download here](https://github.com/JonoAugustine/Ganondorfs-War-bow/releases)
+
+[View Changes](#changes)
 
 
 <img src="images/bow_on_back.png" style="width:100%"/>
