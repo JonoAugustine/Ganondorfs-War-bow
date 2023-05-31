@@ -6,6 +6,11 @@ be. The bow shoots farther, faster, and looks larger.
 
 [Download here](https://github.com/JonoAugustine/Ganondorfs-War-bow/releases)
 
+
+<img src="images/bow_on_back.png" style="width:100%"/>
+<img src="images/bow_in_hands.png" style="width:50%"/>
+<img src="images/bow_drawn.png" style="width:50%;float: right;"/>
+
 ## Changes
 
 <ul>
